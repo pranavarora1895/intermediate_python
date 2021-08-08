@@ -11,6 +11,8 @@ This repository demonstrates:
 * Database Programming
 * Logging
 
+---
+
 > # Multi-threading
 
 Threads are used to execute processes simultaneously. It results in using up lesser execution time, efficient use of memory and good communication between the processes make the application to respond faster.
@@ -72,6 +74,8 @@ Logging is a useful tool to manage any application. It is mostly used by the ser
 Default Setting in the logging level is CRITICAL. So when we perform logging operation, it only displays CRITICAL information on the console. However, the logging levels can be changed. You can set the formatter where you want to store the log, or you can create your own log.
 
 View this [code](https://github.com/pranavarora1895/python_threads/blob/master/loggers.py) to get the better insights in logging.
+
+---
 
 * Follow Me On Instagram at [Pranav Arora](https://www.instagram.com/arorapranav187)
 * Lets Get Connected on Linkedin at [Pranav Arora](https://www.linkedin.com/in/pranav-arora-354b71bb/)
